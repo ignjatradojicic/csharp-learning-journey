@@ -1,0 +1,15 @@
+C:\Users\Marti\source\repos\TodoApp\TodoApp\bin\Debug\net8.0\TodoApp.exe
+C:\Users\Marti\source\repos\TodoApp\TodoApp\bin\Debug\net8.0\TodoApp.deps.json
+C:\Users\Marti\source\repos\TodoApp\TodoApp\bin\Debug\net8.0\TodoApp.runtimeconfig.json
+C:\Users\Marti\source\repos\TodoApp\TodoApp\bin\Debug\net8.0\TodoApp.dll
+C:\Users\Marti\source\repos\TodoApp\TodoApp\bin\Debug\net8.0\TodoApp.pdb
+C:\Users\Marti\source\repos\TodoApp\TodoApp\obj\Debug\net8.0\TodoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marti\source\repos\TodoApp\TodoApp\obj\Debug\net8.0\TodoApp.AssemblyInfoInputs.cache
+C:\Users\Marti\source\repos\TodoApp\TodoApp\obj\Debug\net8.0\TodoApp.AssemblyInfo.cs
+C:\Users\Marti\source\repos\TodoApp\TodoApp\obj\Debug\net8.0\TodoApp.csproj.CoreCompileInputs.cache
+C:\Users\Marti\source\repos\TodoApp\TodoApp\obj\Debug\net8.0\TodoApp.sourcelink.json
+C:\Users\Marti\source\repos\TodoApp\TodoApp\obj\Debug\net8.0\TodoApp.dll
+C:\Users\Marti\source\repos\TodoApp\TodoApp\obj\Debug\net8.0\refint\TodoApp.dll
+C:\Users\Marti\source\repos\TodoApp\TodoApp\obj\Debug\net8.0\TodoApp.pdb
+C:\Users\Marti\source\repos\TodoApp\TodoApp\obj\Debug\net8.0\TodoApp.genruntimeconfig.cache
+C:\Users\Marti\source\repos\TodoApp\TodoApp\obj\Debug\net8.0\ref\TodoApp.dll
