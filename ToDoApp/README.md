@@ -13,7 +13,6 @@ ToDoApp is a simple console-based to-do application that helped me learn the bas
 This project taught me fundamental concepts like:
 - Object-Oriented Programming (OOP)
 - Working with interfaces and classes
-- Basic database integration with SQLite
 - Managing user input and error handling in a console application
 
 ---
