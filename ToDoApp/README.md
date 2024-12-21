@@ -21,4 +21,5 @@ This project taught me fundamental concepts like:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/ToDoApp.git
+   git clone https://github.com/ignjatradojicic/csharp-learning-journey/ToDoApp.git
+  
