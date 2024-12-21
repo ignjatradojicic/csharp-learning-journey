@@ -31,26 +31,19 @@
 
 ## ✨ Key Features
 
-### 1️⃣ Habit Management
-- View all habit records.
-- Add new habit records with validation.
-- Update existing records.
-- Delete records securely.
+### 1️⃣ Comprehensive Habit Management
+- View, add, update, and delete habit records with validation and security.
+- Ensure data integrity through robust error handling and validations.
 
-### 2️⃣ SQLite Integration
-- Connection handling with `using` statements.
-- Parameterized queries for SQL injection prevention.
-- CRUD operations implementation.
+### 2️⃣ Advanced SQLite Integration
+- Efficient database connection handling with `using` statements.
+- Secure parameterized queries to prevent SQL injection attacks.
+- Full implementation of CRUD operations for data persistence.
 
-### 3️⃣ Modular Design
-- Entity, service, and UI layers for clear separation of concerns.
-- Interface-driven service layer.
+### 3️⃣ Modular and Scalable Design
+- Clear separation of concerns with distinct entity, service, and UI layers.
+- Interface-driven architecture to facilitate dependency injection and testing.
 
-### 4️⃣ Learning Highlights
-Each code file includes comments highlighting:
-- Principles learned.
-- Challenges faced.
-- Solutions implemented.
 
 ---
 
