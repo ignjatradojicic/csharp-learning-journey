@@ -1,0 +1,193 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Marti\\source\\repos\\HabbitTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{431AA785-7BAC-47C3-9C1D-7B939B688DAC}|HabbitTracker\\HabitTracker.csproj|c:\\users\\marti\\source\\repos\\habbittracker\\habbittracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431AA785-7BAC-47C3-9C1D-7B939B688DAC}|HabbitTracker\\HabitTracker.csproj|solutionrelative:habbittracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431AA785-7BAC-47C3-9C1D-7B939B688DAC}|HabbitTracker\\HabitTracker.csproj|c:\\users\\marti\\source\\repos\\habbittracker\\habbittracker\\menuhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431AA785-7BAC-47C3-9C1D-7B939B688DAC}|HabbitTracker\\HabitTracker.csproj|solutionrelative:habbittracker\\menuhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431AA785-7BAC-47C3-9C1D-7B939B688DAC}|HabbitTracker\\HabitTracker.csproj|c:\\users\\marti\\source\\repos\\habbittracker\\habbittracker\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431AA785-7BAC-47C3-9C1D-7B939B688DAC}|HabbitTracker\\HabitTracker.csproj|solutionrelative:habbittracker\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431AA785-7BAC-47C3-9C1D-7B939B688DAC}|HabbitTracker\\HabitTracker.csproj|c:\\users\\marti\\source\\repos\\habbittracker\\habbittracker\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431AA785-7BAC-47C3-9C1D-7B939B688DAC}|HabbitTracker\\HabitTracker.csproj|solutionrelative:habbittracker\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431AA785-7BAC-47C3-9C1D-7B939B688DAC}|HabbitTracker\\HabitTracker.csproj|c:\\users\\marti\\source\\repos\\habbittracker\\habbittracker\\services\\habitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431AA785-7BAC-47C3-9C1D-7B939B688DAC}|HabbitTracker\\HabitTracker.csproj|solutionrelative:habbittracker\\services\\habitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431AA785-7BAC-47C3-9C1D-7B939B688DAC}|HabbitTracker\\HabitTracker.csproj|c:\\users\\marti\\source\\repos\\habbittracker\\habbittracker\\services\\datebaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431AA785-7BAC-47C3-9C1D-7B939B688DAC}|HabbitTracker\\HabitTracker.csproj|solutionrelative:habbittracker\\services\\datebaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431AA785-7BAC-47C3-9C1D-7B939B688DAC}|HabbitTracker\\HabitTracker.csproj|c:\\users\\marti\\source\\repos\\habbittracker\\habbittracker\\interfaces\\ihabitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431AA785-7BAC-47C3-9C1D-7B939B688DAC}|HabbitTracker\\HabitTracker.csproj|solutionrelative:habbittracker\\interfaces\\ihabitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431AA785-7BAC-47C3-9C1D-7B939B688DAC}|HabbitTracker\\HabitTracker.csproj|c:\\users\\marti\\source\\repos\\habbittracker\\habbittracker\\interfaces\\idatabaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431AA785-7BAC-47C3-9C1D-7B939B688DAC}|HabbitTracker\\HabitTracker.csproj|solutionrelative:habbittracker\\interfaces\\idatabaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431AA785-7BAC-47C3-9C1D-7B939B688DAC}|HabbitTracker\\HabitTracker.csproj|c:\\users\\marti\\source\\repos\\habbittracker\\habbittracker\\entities\\habitrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431AA785-7BAC-47C3-9C1D-7B939B688DAC}|HabbitTracker\\HabitTracker.csproj|solutionrelative:habbittracker\\entities\\habitrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431AA785-7BAC-47C3-9C1D-7B939B688DAC}|HabbitTracker\\HabitTracker.csproj|c:\\users\\marti\\source\\repos\\habbittracker\\habbittracker\\habittracker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{431AA785-7BAC-47C3-9C1D-7B939B688DAC}|HabbitTracker\\HabitTracker.csproj|solutionrelative:habbittracker\\habittracker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DatebaseService.cs",
+              "DocumentMoniker": "C:\\Users\\Marti\\source\\repos\\HabbitTracker\\HabbitTracker\\Services\\DatebaseService.cs",
+              "RelativeDocumentMoniker": "HabbitTracker\\Services\\DatebaseService.cs",
+              "ToolTip": "C:\\Users\\Marti\\source\\repos\\HabbitTracker\\HabbitTracker\\Services\\DatebaseService.cs",
+              "RelativeToolTip": "HabbitTracker\\Services\\DatebaseService.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAcwJMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T14:37:19.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IHabitService.cs",
+              "DocumentMoniker": "C:\\Users\\Marti\\source\\repos\\HabbitTracker\\HabbitTracker\\Interfaces\\IHabitService.cs",
+              "RelativeDocumentMoniker": "HabbitTracker\\Interfaces\\IHabitService.cs",
+              "ToolTip": "C:\\Users\\Marti\\source\\repos\\HabbitTracker\\HabbitTracker\\Interfaces\\IHabitService.cs",
+              "RelativeToolTip": "HabbitTracker\\Interfaces\\IHabitService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T13:01:45.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IDatabaseService.cs",
+              "DocumentMoniker": "C:\\Users\\Marti\\source\\repos\\HabbitTracker\\HabbitTracker\\Interfaces\\IDatabaseService.cs",
+              "RelativeDocumentMoniker": "HabbitTracker\\Interfaces\\IDatabaseService.cs",
+              "ToolTip": "C:\\Users\\Marti\\source\\repos\\HabbitTracker\\HabbitTracker\\Interfaces\\IDatabaseService.cs",
+              "RelativeToolTip": "HabbitTracker\\Interfaces\\IDatabaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T14:17:24.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MenuHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Marti\\source\\repos\\HabbitTracker\\HabbitTracker\\MenuHandler.cs",
+              "RelativeDocumentMoniker": "HabbitTracker\\MenuHandler.cs",
+              "ToolTip": "C:\\Users\\Marti\\source\\repos\\HabbitTracker\\HabbitTracker\\MenuHandler.cs",
+              "RelativeToolTip": "HabbitTracker\\MenuHandler.cs",
+              "ViewState": "AgIAAMYAAAAAAAAAAAAmwPIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T23:03:34.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\Marti\\source\\repos\\HabbitTracker\\HabbitTracker\\Menu.cs",
+              "RelativeDocumentMoniker": "HabbitTracker\\Menu.cs",
+              "ToolTip": "C:\\Users\\Marti\\source\\repos\\HabbitTracker\\HabbitTracker\\Menu.cs",
+              "RelativeToolTip": "HabbitTracker\\Menu.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAcwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T23:34:01.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HabitService.cs",
+              "DocumentMoniker": "C:\\Users\\Marti\\source\\repos\\HabbitTracker\\HabbitTracker\\Services\\HabitService.cs",
+              "RelativeDocumentMoniker": "HabbitTracker\\Services\\HabitService.cs",
+              "ToolTip": "C:\\Users\\Marti\\source\\repos\\HabbitTracker\\HabbitTracker\\Services\\HabitService.cs",
+              "RelativeToolTip": "HabbitTracker\\Services\\HabitService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T14:02:52.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Marti\\source\\repos\\HabbitTracker\\HabbitTracker\\Program.cs",
+              "RelativeDocumentMoniker": "HabbitTracker\\Program.cs",
+              "ToolTip": "C:\\Users\\Marti\\source\\repos\\HabbitTracker\\HabbitTracker\\Program.cs",
+              "RelativeToolTip": "HabbitTracker\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T12:10:31.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "C:\\Users\\Marti\\source\\repos\\HabbitTracker\\HabbitTracker\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "HabbitTracker\\GlobalUsings.cs",
+              "ToolTip": "C:\\Users\\Marti\\source\\repos\\HabbitTracker\\HabbitTracker\\GlobalUsings.cs",
+              "RelativeToolTip": "HabbitTracker\\GlobalUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T13:08:14.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HabitTracker.csproj",
+              "DocumentMoniker": "C:\\Users\\Marti\\source\\repos\\HabbitTracker\\HabbitTracker\\HabitTracker.csproj",
+              "RelativeDocumentMoniker": "HabbitTracker\\HabitTracker.csproj",
+              "ToolTip": "C:\\Users\\Marti\\source\\repos\\HabbitTracker\\HabbitTracker\\HabitTracker.csproj",
+              "RelativeToolTip": "HabbitTracker\\HabitTracker.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-17T13:00:41.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HabitRecord.cs",
+              "DocumentMoniker": "C:\\Users\\Marti\\source\\repos\\HabbitTracker\\HabbitTracker\\Entities\\HabitRecord.cs",
+              "RelativeDocumentMoniker": "HabbitTracker\\Entities\\HabitRecord.cs",
+              "ToolTip": "C:\\Users\\Marti\\source\\repos\\HabbitTracker\\HabbitTracker\\Entities\\HabitRecord.cs",
+              "RelativeToolTip": "HabbitTracker\\Entities\\HabitRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T12:31:30.905Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
