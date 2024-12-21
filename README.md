@@ -10,9 +10,10 @@ This repository contains various projects I've built while learning C#. It inclu
 - And much more!
 
 ## 🗂️ Projects
-| Project Name  | Description                           | Key Concepts        |
-|---------------|---------------------------------------|---------------------|
-| **ToDoApp**   | A basic to-do list application.       | OOP, Interfaces     |
+| Project Name     | Description                                   | Key Concepts                                                   |
+|------------------|-----------------------------------------------|------------------------------------------------------------    |
+| **ToDoApp**      | A basic to-do list application.               | OOP, Interfaces |
+| **HabitTracker** | A habit tracking application for daily tasks. | Modular Design, SQLite Integration, LINQ, Dependency Injection |
 
 ## 🔭 Goals
 - Master the fundamentals of C#.
