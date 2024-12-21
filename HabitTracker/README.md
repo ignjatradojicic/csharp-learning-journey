@@ -63,7 +63,7 @@ Each code file includes comments highlighting:
 ### 🚀 Steps to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/learningcsharp-learning-journey.git
+   git clone https://github.com/ignjatradojicic/csharp-learning-journey/HabitTracker.git
    ```
 2. Navigate to the project directory:
    ```bash
